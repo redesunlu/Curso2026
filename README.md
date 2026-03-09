@@ -19,6 +19,7 @@ Repo del Curso 2026 de ["Teleinformática y Redes" (10040)](https://www.labredes
 - Práctica de SO Linux (no se entrega!) ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl-adicional.pdf?raw=true))
 - Configuración inicial del laboratorio+Kathara 
 - Cliente/Servidor - Terminal 
+- Ethernet demo
 - Servicio de Nombres  
 - Correo Electrónico
 - Web - HTTP parte 1 
