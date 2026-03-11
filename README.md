@@ -17,7 +17,7 @@ Repo del Curso 2026 de ["Teleinformática y Redes" (10040)](https://www.labredes
 
 ## Trabajos Prácticos
 - Práctica de SO Linux (no se entrega!) ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl-adicional.pdf?raw=true))
-- Configuración inicial del laboratorio+Kathara 
+- Configuración inicial del laboratorio+Kathara ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl1-configuracion-inicial.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl1-configuracion-inicial.pdf.sha256?raw=true)) 
 - Cliente/Servidor - Terminal 
 - Ethernet demo
 - Servicio de Nombres  
