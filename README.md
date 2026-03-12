@@ -2,20 +2,7 @@
 Repo del Curso 2026 de ["Teleinformática y Redes" (10040)](https://www.labredes.unlu.edu.ar/tyr)
 
 ## Temas y Guías de Clase
-```
-El uso de Inteligencia Artificial para la resolución de los trabajos prácticos debe ser claramente declarado
-en cada entrega. Debe incluir:
 
-- Herramientas y versiones utilizadas
-- Objetivos (edición, resolución, generación de ideas, código, etc.)
-- Partes resueltas con IA
-- Cómo se verificó la validez de la respuesta
-- Cómo aportó al proceso de aprendizaje
-
-La declaración debe incluir el nombre y versión de las herramientas utilizadas en cada caso. El autor, además,
-debe declarar que asume la total responsabilidad por el resultado incluido en el trabajo práctico. El uso
-declarado será evaluado según su pertinencia y la elaboración propia del estudiante en el resultado final.
-```
 - Introducción, Redes y OSI [[link](https://docs.google.com/document/d/1pGkPkkBDOnUyqU79i9PbWWaKW3xljHvdZF8EjxyqfiQ/edit?tab=t.0)]
 - Comunicaciones de datos (modelo, señales)
 - Redes Locales y WLANS
@@ -30,6 +17,20 @@ declarado será evaluado según su pertinencia y la elaboración propia del estu
 - UDP
 
 ## Trabajos Prácticos
+```
+El uso de Inteligencia Artificial para la resolución de los trabajos prácticos debe ser claramente declarado
+en cada entrega. Debe incluir:
+
+- Herramientas y versiones utilizadas
+- Objetivos (edición, resolución, generación de ideas, código, etc.)
+- Partes resueltas con IA
+- Cómo se verificó la validez de la respuesta
+- Cómo aportó al proceso de aprendizaje
+
+La declaración debe incluir el nombre y versión de las herramientas utilizadas en cada caso. El autor, además,
+debe declarar que asume la total responsabilidad por el resultado incluido en el trabajo práctico. El uso
+declarado será evaluado según su pertinencia y la elaboración propia del estudiante en el resultado final.
+```
 - Práctica de SO Linux (no se entrega!) ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl-adicional.pdf?raw=true))
 - Configuración inicial del laboratorio+Kathara ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl1-configuracion-inicial.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl1-configuracion-inicial.pdf.sha256?raw=true)) 
 - Cliente/Servidor - Terminal 
