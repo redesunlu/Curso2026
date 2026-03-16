@@ -4,7 +4,7 @@ Repo del Curso 2026 de ["Teleinformática y Redes" (10040)](https://www.labredes
 ## Temas y Guías de Clase
 
 - Introducción, Redes y OSI [[link](https://docs.google.com/document/d/1pGkPkkBDOnUyqU79i9PbWWaKW3xljHvdZF8EjxyqfiQ/edit?tab=t.0)]
-- Comunicaciones de datos (modelo, señales)
+- Comunicaciones de datos (modelo, señales) [[link](https://docs.google.com/document/d/1fNWTWf76V54j3MkgPguqaL4m-RUgqiWMPh9W4chyIzU/edit?tab=t.0)]
 - Redes Locales y WLANS
 - Capa de Enlace
 - Cableado
