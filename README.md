@@ -34,7 +34,7 @@ declarado será evaluado según su pertinencia y la elaboración propia del estu
 - Práctica de SO Linux (no se entrega!) ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl-adicional.pdf?raw=true))
 - Configuración inicial del laboratorio+Kathara ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl1-configuracion-inicial.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl1-configuracion-inicial.pdf.sha256?raw=true)) 
 - Cliente/Servidor - Terminal ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl2-telnet.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl2-telnet.pdf.sha256?raw=true))
-- Ethernet demo
+- Ethernet demo ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tp-ethernet.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tp-ethernet.pdf.sha256?raw=true))
 - Servicio de Nombres ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl3-dns.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl3-dns.pdf.sha256?raw=true)) - Captura ejemplo ([link](https://www.labredes.unlu.edu.ar/sites/www.labredes.unlu.edu.ar/files/site/data/tyr//captura_ejemplo_dns.pcap)) 
 - Correo Electrónico
 - Web - HTTP parte 1 
