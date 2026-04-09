@@ -36,7 +36,7 @@ declarado será evaluado según su pertinencia y la elaboración propia del estu
 - Cliente/Servidor - Terminal ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl2-telnet.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl2-telnet.pdf.sha256?raw=true))
 - Ethernet demo ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tp-ethernet.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tp-ethernet.pdf.sha256?raw=true))
 - Servicio de Nombres ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl3-dns.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl3-dns.pdf.sha256?raw=true)) - Captura ejemplo ([link](https://www.labredes.unlu.edu.ar/sites/www.labredes.unlu.edu.ar/files/site/data/tyr//captura_ejemplo_dns.pcap)) 
-- Correo Electrónico
+- Correo Electrónico ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl4-correo-electronico.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl4-correo-electronico.pdf.sha256?raw=true))
 - Web - HTTP parte 1 
 - Web - HTTP parte 2 
 - Subnetting/Ruteo
