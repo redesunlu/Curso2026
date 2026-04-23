@@ -38,7 +38,7 @@ declarado será evaluado según su pertinencia y la elaboración propia del estu
 - Servicio de Nombres ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl3-dns.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl3-dns.pdf.sha256?raw=true)) - Captura ejemplo ([link](https://www.labredes.unlu.edu.ar/sites/www.labredes.unlu.edu.ar/files/site/data/tyr//captura_ejemplo_dns.pcap)) 
 - Correo Electrónico ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl4-correo-electronico.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl4-correo-electronico.pdf.sha256?raw=true))
 - Web - HTTP parte 1 ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl5-http.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl5-http.pdf.sha256?raw=true))
-- Web - HTTP parte 2 
+- Web - HTTP parte 2 ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl6-http-parte2.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl6-http-parte2.pdf.sha256?raw=true))
 - Subnetting/Ruteo
 - IPv6 
 - Actividad TP Final Integrador
