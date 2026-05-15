@@ -8,7 +8,7 @@ Repo del Curso 2026 de ["Teleinformática y Redes" (10040)](https://www.labredes
 - Redes Locales y WLANS [[link](https://docs.google.com/document/d/1KIZKd8RRYXzxgMh60XpUCmlpbDHVYxRSBWKikCLYQZc/edit?tab=t.0)]
 - Capa de Enlace [[link](https://docs.google.com/document/d/1F2RaB4JxAeoEe24Tgzz6PSonXMvTzpzF1L4PwhJmzKY/edit?tab=t.0)]
 - Cableado [[link](https://docs.google.com/document/d/1lwDJ4-HQOMeXCVYqm9DsaAdWVdFLPwhzIYAqaS0PY9o/edit?tab=t.0)]
-- Conmutación, Capa de Red, IPv4
+- Conmutación, Capa de Red, IPv4 [[link](https://docs.google.com/document/d/18I97t_fMyhSmFy2aRm0YiLG8XcrvckiWL_weqGhc66c/edit?tab=t.0)]
 - Subnetting, CIDR, VLSM
 - Ruteo
 - IPv6 
