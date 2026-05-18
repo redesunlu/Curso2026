@@ -9,8 +9,8 @@ Repo del Curso 2026 de ["Teleinformática y Redes" (10040)](https://www.labredes
 - Capa de Enlace [[link](https://docs.google.com/document/d/1F2RaB4JxAeoEe24Tgzz6PSonXMvTzpzF1L4PwhJmzKY/edit?tab=t.0)]
 - Cableado [[link](https://docs.google.com/document/d/1lwDJ4-HQOMeXCVYqm9DsaAdWVdFLPwhzIYAqaS0PY9o/edit?tab=t.0)]
 - Conmutación, Capa de Red, IPv4 [[link](https://docs.google.com/document/d/18I97t_fMyhSmFy2aRm0YiLG8XcrvckiWL_weqGhc66c/edit?tab=t.0)]
-- Subnetting, CIDR, VLSM
-- Ruteo
+- Subnetting, CIDR, VLSM [[link](https://docs.google.com/document/d/13PIfX0BmwcL9_Li5PJrJk0zlgCczan7JHBpYO_rUIIY/edit?tab=t.0)]
+- Ruteo [[link](https://docs.google.com/document/d/14CeDMiHRsYg94FYOWyXGtlWR7SdcbZFuHuuKejjcUF0/edit?tab=t.0)]
 - IPv6 
 - Capa de Transporte y TCP (1)
 - TCP (2)
