@@ -38,7 +38,7 @@ declarado será evaluado según su pertinencia y la elaboración propia del estu
 - Correo Electrónico ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl4-correo-electronico.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl4-correo-electronico.pdf.sha256?raw=true))
 - Web - HTTP parte 1 ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl5-http.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl5-http.pdf.sha256?raw=true))
 - Web - HTTP parte 2 ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl6-http-parte2.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl6-http-parte2.pdf.sha256?raw=true))
-- Subnetting/Ruteo
+- Subnetting/Ruteo/NAT ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl7-ruteo-nat.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl7-ruteo-nat.pdf.sha256?raw=true))
 - IPv6 
 - Actividad TP Final Integrador
   
