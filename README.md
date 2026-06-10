@@ -40,7 +40,7 @@ declarado será evaluado según su pertinencia y la elaboración propia del estu
 - Web - HTTP parte 2 ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl6-http-parte2.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl6-http-parte2.pdf.sha256?raw=true))
 - Subnetting/Ruteo/NAT ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl7-ruteo-nat.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl7-ruteo-nat.pdf.sha256?raw=true))
 - IPv6  ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl8-ipv6-opcional.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl8-ipv6-opcional.pdf.sha256?raw=true))
-- Actividad TP Final Integrador [[link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tp-final-2026.pdf)]
+- Actividad TP Final Integrador [[link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tp-final-2026.pdf?raw=true)]
   
 ## Recursos
 - Máquina virtual para TPs [link](https://drive.google.com/file/d/1Up-LcjwPVvvoIIGCFIgXoVQvhyFzhz8t)
