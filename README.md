@@ -13,7 +13,7 @@ Repo del Curso 2026 de ["Teleinformática y Redes" (10040)](https://www.labredes
 - Ruteo [[link](https://docs.google.com/document/d/14CeDMiHRsYg94FYOWyXGtlWR7SdcbZFuHuuKejjcUF0/edit?tab=t.0)]
 - IPv6 [[link](https://docs.google.com/document/d/1TAGskFIcnEYcqvFMDlX3SkqfqvSnBOTvNzaTz-yGfEo/edit?tab=t.0)]
 - Capa de Transporte y TCP (1) [[link](https://docs.google.com/document/d/1IeIVMy3lJdawKpCAEI4riU3VhcVwZaAjGDPAgSUOhFA/edit?tab=t.0)]
-- TCP (2) [[link](https://docs.google.com/document/d/1BNMcSkixxS-FTA0yYaphSHO7LsPaIqPrtLDkuuDskio/edit?tab=t.0)]
+- TCP (2) [[link](https://docs.google.com/document/d/1BNMcSkixxS-FTA0yYaphSHO7LsPaIqPrtLDkuuDskio/edit?tab=t.0)] 
 
 ## Trabajos Prácticos
 ```
@@ -40,7 +40,7 @@ declarado será evaluado según su pertinencia y la elaboración propia del estu
 - Web - HTTP parte 2 ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl6-http-parte2.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl6-http-parte2.pdf.sha256?raw=true))
 - Subnetting/Ruteo/NAT ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl7-ruteo-nat.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl7-ruteo-nat.pdf.sha256?raw=true))
 - IPv6  ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl8-ipv6-opcional.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl8-ipv6-opcional.pdf.sha256?raw=true))
-- Actividad TP Final Integrador [[link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tp-final-2026.pdf?raw=true)]
+- Actividad TP Final Integrador [[link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tp-final-2026.pdf?raw=true)] - [[hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tp-final-2026.pdf.sha256)]
   
 ## Recursos
 - Máquina virtual para TPs [link](https://drive.google.com/file/d/1Up-LcjwPVvvoIIGCFIgXoVQvhyFzhz8t)
